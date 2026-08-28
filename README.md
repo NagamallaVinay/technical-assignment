@@ -4,6 +4,7 @@ Overview :
 This assignment is designed to evaluate your practical skills in Python programming, web scraping and data extraction, SQL and database querying, and Unix/Linux shell scripting.
 
 Project Structure : 
+
 technical-assignment/
 ├── README.md
 ├── question1/
